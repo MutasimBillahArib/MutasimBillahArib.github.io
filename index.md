@@ -2,28 +2,21 @@
 layout: home
 title: Home
 description: >-
-  Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
-  en diversas etapas del ciclo de desarrollo de aplicaciones.
+  I am Arib, mainly interested in data science, machine learning & tech. I love to learn and share.
 image: /assets/images/main.avif
 main_content: >
-  # Hello Friend. Hello World.
+  # Hey dear. You can call me Arib.
 
+  Specialized in building **data-driven solutions and predictive models** using **Python, and machine learning techniques.**
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
+  I have worked across the full **data science pipeline**-from **data collection and cleaning** to **model development, evaluation**, and **deployment**.
 
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
-
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+  Passionate about extracting insights from data, continuously learning, and solving real-world problems through analytical thinking and innovation.
 footer: true
 permalink: /
 ---
-## Hello World
+## More About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat porta lorem, non auctor magna aliquet ac. Nam finibus in massa quis molestie. Vestibulum malesuada iaculis consequat. Phasellus sagittis, nisl non semper vestibulum, tellus enim interdum purus, ac pretium magna lectus ac turpis. Phasellus scelerisque hendrerit magna vitae fermentum. Praesent facilisis erat viverra eros tristique, id faucibus eros volutpat. Duis tempus arcu in felis sollicitudin, in sodales leo scelerisque. Nullam dapibus libero eu iaculis rhoncus.
+I live in Bangladesh. I've been curious about technology and computers since I was a teenager, always experimenting, learning, and trying to understand how things work. I love the idea of using technology to **create, share, and solve problems**-especially in ways that are open, inclusive, and borderless. I believe deeply in **open access to knowledge, digital rights**, and the importance of **free and open-source software** in shaping a fair digital future.
 
-Nulla sed lorem imperdiet, efficitur velit et, mollis neque. Etiam placerat vehicula diam, a scelerisque diam posuere vel. Sed a convallis elit. Proin sodales, mi sit amet aliquam lobortis, ligula elit tristique justo, sodales placerat diam nunc vitae eros. Etiam maximus mauris eget sem varius, mollis ullamcorper metus porttitor. Aenean at elit sodales, rutrum ex tincidunt, molestie lorem. Donec in ante fermentum, pharetra dolor in, tempus nunc. Vivamus in lacinia lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-
+But I'm more than lines of code and equations. I enjoy **reading** and exploring ideas around **philosophy, freedom**, and **sustainability**. And like my work, I see life as a continuous learning process-full of challenges, questions, and opportunities.

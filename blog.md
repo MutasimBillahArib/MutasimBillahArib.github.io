@@ -3,7 +3,7 @@ layout: blog
 title: Blog
 nav: true
 footer: true
-description: This is the Awesome Jekyll Theme blog section.
+description: This is the blog section.
 ---
 
 

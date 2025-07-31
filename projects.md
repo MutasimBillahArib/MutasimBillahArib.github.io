@@ -2,7 +2,7 @@
 layout: projects
 title: Projects
 nav: true
-description: These are example projects in the awesome jekyll theme
+description: These are some of projects I have worked on.
 ---
 
 
