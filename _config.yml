@@ -1,6 +1,6 @@
-title: AwesomeJT
-logo: /assets/images/logo.avif
-baseurl: /awesome-jekyll-theme
+title: Mutasim Billah Arib
+# logo: /assets/images/logo.avif
+# baseurl: /awesome-jekyll-theme
 
 ##
 # Collections configuration
@@ -19,7 +19,7 @@ collections:
 contact_channels_section: true
 contact_channels:
   # email: "example@example.cl"
-  github: "https://github.com/a-chacon"
+  github: "https://github.com/MutasimBillahArib"
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
