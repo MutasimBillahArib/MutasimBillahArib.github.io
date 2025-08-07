@@ -5,9 +5,16 @@ logo: /assets/images/logo.avif
 ##
 # Collections configuration
 ##
+# collections:
+#   projects:
+#     output: true
+
 collections:
   projects:
     output: true
+  certifications:  # ← New collection for certifications
+    output: true
+
 
 ##
 # Contact Channels configuration
