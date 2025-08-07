@@ -96,8 +96,8 @@ layout: default
 >
   <div class="py-16 w-full">
     <h2 class="text-3xl font-bold text-center md:text-left" data-motion="fadeInUp">
-      {{ site.data[site.active_lang].strings.home.projects_title | default:
-      site.data['en'].strings.home.projects_title}}
+      {{ site.data[site.active_lang].strings.home.certifications_title | default:
+      site.data['en'].strings.home.certifications_title}}
     </h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-x-8 gap-y-16 py-8 md:py-16" data-motion="stagger-cards">
       {% for certification in site.certifications limit:3 %} 
@@ -109,8 +109,8 @@ layout: default
         class="font-mulish text-lg hover:text-sky-400 hover:underline font-bold"
         href="{{'/certifications' | relative_url }}"
       >
-        {{ site.data[site.active_lang].strings.home.see_more_projects | default:
-        site.data['en'].strings.home.see_more_projects }}
+        {{ site.data[site.active_lang].strings.home.see_more_certifications | default:
+        site.data['en'].strings.home.see_more_certifications }}
       </a>
     </div>
   </div>
