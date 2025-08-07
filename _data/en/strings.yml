@@ -1,10 +1,10 @@
 home:
   contact_me: "You can contact me on any of these channels:"
   blog_title: "Blog: Lastest Posts"
-  see_more_posts: "See More Posts ->"
+  see_more_posts: "View All Posts ->"
   projects_title: "Lastest Projects"
-  see_more_projects: "See More Projects ->"
-  certifications_title: "Certifications"
+  see_more_projects: "View All Projects ->"
+  certifications_title: "Latest Certifications"
   see_more_certifications: "View All Certifications"
 footer:
   title: "Let's keep in touch!"
