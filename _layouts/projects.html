@@ -1,10 +1,33 @@
 ---
 layout: default
 ---
-<section class="container mx-auto pt-20 pb-10 lg:pt-[120px] lg:pb-20 min-h-screen">
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-16" data-motion="stagger-cards" data-motion-onscroll="false">
-    {% for project in site.projects %}
-    {% include project_card.html project=project%}
+
+<section class="container mx-auto pb-10 pt-20 lg:pt-[90px] lg:pb-20">
+  {% if site.categories.size > 0 %}
+  <div
+    class="flex flex-wrap justify-center border-neutral-500 border-y mb-4 md:mb-12"
+  >
+    {% for category in site.categories %} {% assign category_name = category[0] %}
+    <a
+      href="{{site.url}}{{site.baseurl}}/category/{{category_name| replace: ' ', '-'| downcase}}"
+      aria-label="Category {{category_name}} page"
+      class="block font-mulish hover:underline p-4 {% if category_name == page.title %}font-black{% endif %}"
+    >
+      {{ category_name | upcase }}
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %} 
+
+  {% assign projects = site.projects %}
+
+  <div
+    class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-12 gap-y-16 py-8 md:py-16"
+    data-motion="fadeInDown"
+    data-motion-onscroll="false"
+  >
+    {% for project in projects %}
+      {% include project_card.html project=project %}
     {% endfor %}
   </div>
 </section>
