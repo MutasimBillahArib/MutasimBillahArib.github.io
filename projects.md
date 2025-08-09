@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: my-project
 title: Projects
 nav: true
 footer: true

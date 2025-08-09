@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: my-project
 title: Book Recommendation Engine
 image: /assets/images/projects/book-recommendation-engine.png
 tags:
