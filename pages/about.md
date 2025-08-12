@@ -7,11 +7,14 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hey, I'm **Arib!** :wave:<br>
+
+I'm passionate about machine learning, data science, and technology—driven by a lifelong curiosity about how things work. I believe in building interpretable, deployable models grounded in clean code, reproducibility, and real-world utility. If it can't be explained or used, it's not done.
+
+I advocate for open knowledge, and free and open-source software as cornerstones of a fair digital future. Beyond code, I explore ideas in philosophy, freedom, and sustainability, seeing both tech and life as continuous learning journeys.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Technical Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
