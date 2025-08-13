@@ -9,9 +9,11 @@ weight: 3
 
 **Hey, I'm Arib!** :wave:<br>
 
-I'm passionate about machine learning, data science, and technology—driven by a lifelong curiosity about how things work. I believe in building interpretable, deployable models grounded in clean code, reproducibility, and real-world utility. If it can't be explained or used, it's not done.
+Passionate about machine learning, data science, and cutting-edge technology, I thrive on unraveling complex systems and transforming data into actionable insights. My approach centers on building interpretable, production-ready models—prioritizing clean, maintainable code, reproducibility, and measurable impact. If a model can't be explained, deployed, or leveraged in the real world, it’s not truly complete.
 
-I advocate for open knowledge, and free and open-source software as cornerstones of a fair digital future. Beyond code, I explore ideas in philosophy, freedom, and sustainability, seeing both tech and life as continuous learning journeys.
+Beyond technical execution, I embrace continuous learning, adaptability, and problem-solving—both in technology and life. Every challenge is an opportunity to grow, iterate, and refine.
+
+Thanks for visiting—explore my blog, projects, and insights. Let’s connect and push the boundaries of what’s possible.
 
 <div class="row">
 {% include about/skills.html title="Technical Skills" source=site.data.programming-skills %}
