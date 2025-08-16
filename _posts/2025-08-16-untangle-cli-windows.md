@@ -1,6 +1,7 @@
 ---
 title: My Journey Through the Maze of Windows Command Lines
 tags: [CLI, Command Prompt, PowerShell, Git Bash, Terminal, Windows]
+author: Me with Qwen3-235B-A22B-2507
 description: Confused about Windows command line tools? Learn the differences between Command Prompt, PowerShell, Git Bash, and Windows Terminal in this friendly guide—with tips on when to use each.
 ---
 
