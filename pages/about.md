@@ -20,6 +20,6 @@ Thanks for visiting—explore my blog, projects, and insights. Let’s connect a
 {% include about/skills.html title="Soft Skills" source=site.data.other-skills %}
 </div>
 
-<div class="row">
+<!-- <div class="row">
 {% include about/timeline.html %}
-</div>
+</div> -->
