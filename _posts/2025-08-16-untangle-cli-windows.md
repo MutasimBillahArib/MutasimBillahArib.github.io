@@ -4,8 +4,6 @@ tags: [CLI, Command Prompt, PowerShell, Git Bash, Terminal, Windows]
 description: Confused about Windows command line tools? Learn the differences between Command Prompt, PowerShell, Git Bash, and Windows Terminal in this friendly guide—with tips on when to use each.
 ---
 
-![]("/assets/images/blogs/2025-08-16-cli.png")
-
 When I first dipped my toes into the world of programming and tech tools, I thought I had a handle on things. Double-click, open, type something, magic happens—right? Well, not exactly.
 
 The first time I opened that mysterious black window on Windows, I stared at the blinking cursor like it was daring me to type something wrong and break my computer forever. Was this **Terminal**? Or was it **PowerShell**? Everyone online kept talking about "the terminal" and "the CLI," but to me, it felt like I’d accidentally walked into a secret club without knowing the rules.
