@@ -1,5 +1,5 @@
 ---
-title: Demystifying the Command Line: A Windows User's Guide to Terminals, Shells & Power Tools
+title: Demystifying the Command Line - A Windows User's Guide to Terminals, Shells & Power Tools
 tags: [CLI, Power Shell, Terminal, Git Bash]
 description: Untangle CLI, Terminal, PowerShell & Git Bash for Windows. Learn their history, differences, and when to use each tool. Essential guide for developers!
 ---
