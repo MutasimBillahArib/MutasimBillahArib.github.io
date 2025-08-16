@@ -3,7 +3,7 @@ title               : Mutasim Billah Arib
 # description         : >-
 #                        :book: :computer: :outbox_tray: :repeat:
 description         : >-
-                      I see pattern where others see chaos.
+                      I see patterns where others see chaos.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 # repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : MutasimBillahArib/portfolYOU
