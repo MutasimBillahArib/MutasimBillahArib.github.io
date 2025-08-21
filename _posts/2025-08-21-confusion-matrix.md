@@ -76,7 +76,12 @@ Dr. Trevelyan’s head sank. “It wasn’t 99%. It was 33%. Ten Lucys… lost.�
 
 ## Other Lessons from Holmes
 
-- **Spam Filter**: False negatives—spam in the inbox—are tolerable. False positives—an urgent letter lost—are catastrophic. Thus, the wise man demands **Precision** = $\frac{TP}{TP + FP}$
+- **Spam Filter**: False negatives—spam in the inbox—are tolerable. False positives—an urgent letter lost—are catastrophic. Thus, the wise man demands **Precision**:
+
+$$
+\text{Precision} = \frac{TP}{TP + FP}
+$$
+
 
 
 
