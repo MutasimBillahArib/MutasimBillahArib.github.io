@@ -93,21 +93,21 @@ He smiled thinly.
 
 ## Other Lessons from Holmes
 
-- **Spam Filter**: False negatives—spam in the inbox—are tolerable. False positives—an urgent letter lost—are catastrophic. Thus, the wise man demands **Precision**:
+**Spam Filter**: False negatives—spam in the inbox—are tolerable. False positives—an urgent letter lost—are catastrophic. Thus, the wise man demands **Precision**:
 
 $$
 \text{Precision} = \frac{TP}{TP + FP}
 $$
 
 
-- **Loan Approval**: A balance of perils. Deny a worthy man credit—bad. Approve a rogue—worse. Both errors cut, though differently. Here the **F1-score**, harmonising recall and precision, is the truest guide.
+**Loan Approval**: A balance of perils. Deny a worthy man credit—bad. Approve a rogue—worse. Both errors cut, though differently. Here the **F1-score**, harmonising recall and precision, is the truest guide.
 
 $$
 F1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}
 $$
 
  
-- **Common Disease**: Where disease is frequent and errors less dire, **Accuracy** regains some meaning. But only, Watson, if the classes are balanced. Always consult the matrix before you trust the percentage.
+**Common Disease**: Where disease is frequent and errors less dire, **Accuracy** regains some meaning. But only, Watson, if the classes are balanced. Always consult the matrix before you trust the percentage.
 
 
 ## TL;DR
