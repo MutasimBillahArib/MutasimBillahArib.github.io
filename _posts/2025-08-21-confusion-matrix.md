@@ -4,7 +4,7 @@ tags: [Classification, Confusion Matrix, Accuracy, Precision, Recall, F1 Score]
 description: A suspenseful Sherlock Holmes tale where Dr. Trevelyan seeks Holmes’s help after an AI cancer screening tool fails, revealing the deadly consequences hidden behind ‘99% accuracy’ and the crucial truths of the Confusion Matrix.
 ---
 
-{% include elements/figure.html image="/assets/images/blog/2025-08-21-confusion-matrix.png" caption="Image created using Qwen3-235B-A22B-2507" %}
+{% include elements/figure.html image="/assets/images/blog/2025-08-21-confusion-matrix.png" caption="Image was generated using Qwen3-235B-A22B-2507" %}
 
 It was a damp November morning when Dr. Percy Trevelyan staggered into our sitting-room at Baker Street. His face was ashen, shoulders slumped, and his hand shook so violently that the coffee he carried sloshed over my desk, leaving a dark, jagged stain.
 
