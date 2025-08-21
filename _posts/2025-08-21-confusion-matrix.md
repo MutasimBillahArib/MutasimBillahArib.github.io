@@ -68,26 +68,9 @@ $$
 \text{Recall} = \frac{TP}{TP + FN} = \frac{5}{15} = 33\%
 $$
 
-
 Holmes jabbed the paper. “There lies your disaster.”
 
 Dr. Trevelyan’s head sank. “It wasn’t 99%. It was 33%. Ten Lucys… lost.”
-
-
-## Other Lessons from Holmes
-
-- **Spam Filter**: False negatives—spam in the inbox—are tolerable. False positives—an urgent letter lost—are catastrophic. Thus, the wise man demands **Precision**:
-
-$$
-\text{Precision} = \frac{TP}{TP + FP}
-$$
-
-
-
-
-- **Loan Approval**: A balance of perils. Deny a worthy man credit—bad. Approve a rogue—worse. Both errors cut, though differently. Here the **F1-score**($F1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}$), harmonising recall and precision, is the truest guide.
- 
-- **Common Disease**: Where disease is frequent and errors less dire, **Accuracy** regains some meaning. But only, Watson, if the classes are balanced. Always consult the matrix before you trust the percentage.
 
 
 ## The Crime in the Numbers  
@@ -105,6 +88,24 @@ By the fire, I asked, “Holmes, then, what is accuracy?”
 He smiled thinly.
 “Accuracy, Watson, is the laziest storyteller. It smooths jagged edges and whispers comforting lies. The Confusion Matrix tells the whole story—it shows where the landmines lie. And sometimes, saving a life demands enduring a thousand false alarms.” 
 
+
+## Other Lessons from Holmes
+
+- **Spam Filter**: False negatives—spam in the inbox—are tolerable. False positives—an urgent letter lost—are catastrophic. Thus, the wise man demands **Precision**:
+
+$$
+\text{Precision} = \frac{TP}{TP + FP}
+$$
+
+
+- **Loan Approval**: A balance of perils. Deny a worthy man credit—bad. Approve a rogue—worse. Both errors cut, though differently. Here the **F1-score**, harmonising recall and precision, is the truest guide.
+
+$$
+F1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}
+$$
+
+ 
+- **Common Disease**: Where disease is frequent and errors less dire, **Accuracy** regains some meaning. But only, Watson, if the classes are balanced. Always consult the matrix before you trust the percentage.
 
 
 ## TL;DR
