@@ -48,9 +48,8 @@ He filled the boxes with Dr. Trevelyan’s numbers for 1,000 patients:
 
 “Accuracy?” Holmes scrawled.  
 
-$$
-\frac{TP + TN}{\text{Total}} = \frac{5 + 990}{1000} = 99.5\%
-$$
+
+$\frac{TP + TN}{\text{Total}} = \frac{5 + 990}{1000} = 99.5\%$
 
 
 
@@ -67,7 +66,10 @@ Holmes straightened. “The true question is not *How accurate?* but *What is th
 - **Priority:** Catch every possible tumor.  
 - **Metric:** Recall.  
 
-$$Recall \eq \fraq{TP}{TP + FN} \eq \fraq{5}{15} \eq 33%$$
+$$
+\text{Recall} = \frac{TP}{TP + FN} = \frac{5}{15} = 33\%
+$$
+
 
 Holmes pointed. “There is your disaster.”  
 
