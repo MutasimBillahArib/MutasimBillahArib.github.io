@@ -90,6 +90,7 @@ $$F1 = 2 * \fraq{precision * recall}{precision + recall}$$
 
 
 ### 🤒 Scenario 4: Common Disease Screening  
+
 “Where disease is frequent and errors less dire, **accuracy** regains some meaning. But only, Watson, if the classes are balanced. Always consult the matrix before you trust the percentage.”  
 
 
