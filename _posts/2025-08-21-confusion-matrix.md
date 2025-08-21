@@ -48,7 +48,10 @@ He filled the boxes with Dr. Trevelyan’s numbers for 1,000 patients:
 
 “Accuracy?” Holmes scrawled.  
 
-`(TP + TN) ÷ Total = (5 + 990) ÷ 1000 = 99.5%`
+$$
+\frac{TP + TN}{\text{Total}} = \frac{5 + 990}{1000} = 99.5\%
+$$
+
 
 
 “Glittering! Yet it hides the ten Lucys. Accuracy is a lazy storyteller—it tells the tale of the majority, not the critical few.”    
