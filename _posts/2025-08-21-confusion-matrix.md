@@ -66,9 +66,8 @@ Holmes straightened. “The true question is not *How accurate?* but *What is th
 - **Priority:** Catch every possible tumor.  
 - **Metric:** Recall.  
 
-$$
-\text{Recall} = \frac{TP}{TP + FN} = \frac{5}{15} = 33\%
-$$
+
+`\text{Recall} = \frac{TP}{TP + FN} = \frac{5}{15} = 33\%`
 
 
 Holmes pointed. “There is your disaster.”  
