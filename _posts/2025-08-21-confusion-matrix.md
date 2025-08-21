@@ -49,7 +49,10 @@ He filled the boxes with Dr. Trevelyan’s numbers for 1,000 patients:
 “Accuracy?” Holmes scrawled.  
 
 
-$\frac{TP + TN}{\text{Total}} = \frac{5 + 990}{1000} = 99.5\%$
+$$
+\frac{TP + TN}{\text{Total}} = \frac{5 + 990}{1000} = 99.5\%
+$$
+
 
 
 
@@ -67,7 +70,10 @@ Holmes straightened. “The true question is not *How accurate?* but *What is th
 - **Metric:** Recall.  
 
 
-`\text{Recall} = \frac{TP}{TP + FN} = \frac{5}{15} = 33\%`
+$$
+\text{Recall} = \frac{TP}{TP + FN} = \frac{5}{15} = 33\%
+$$
+
 
 
 Holmes pointed. “There is your disaster.”  
@@ -79,14 +85,20 @@ Dr. Trevelyan buried his head in his hands. “It wasn’t 99%. It was 33%. Only
 Holmes gave a wry smile.  
 “A trivial modern nuisance. False negatives—spam in the inbox—are tolerable. False positives—an urgent letter lost—are catastrophic. Thus, the wise man demands **Precision**.”
 
-$$Precision \eq \fraq{TP}{TP + FP}$$  
+$$
+\text{Precision} = \frac{TP}{TP + FP}
+$$
+ 
 
 
 ### ⚖️ Scenario 3: Loan Approval  
 
 “A balance of perils. Deny a worthy man credit—bad. Approve a rogue—worse. Both errors cut, though differently. Here the **F1-score**, harmonising recall and precision, is the truest guide.”
 
-$$F1 = 2 * \fraq{precision * recall}{precision + recall}$$
+$$
+F_1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}
+$$
+
 
 
 ### 🤒 Scenario 4: Common Disease Screening  
