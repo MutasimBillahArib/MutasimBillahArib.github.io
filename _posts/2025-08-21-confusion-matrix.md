@@ -60,7 +60,7 @@ $\frac{TP + TN}{\text{Total}} = \frac{5 + 990}{1000} = 99.5\%$
 
 Holmes straightened. “The true question is not *How accurate?* but *What is the cost of being wrong in this particular way?* Observe.”  
 
-### 🩺 Scenario 1: Cancer Screening (Thorne’s Case)  
+### 🩺 Scenario 1: Cancer Screening (Trevelyan’s Case)  
 - **False Negative:** Catastrophic—delayed treatment, death.  
 - **False Positive:** Anxiety, extra tests—serious, but survivable.  
 - **Priority:** Catch every possible tumor.  
@@ -79,10 +79,11 @@ Dr. Trevelyan buried his head in his hands. “It wasn’t 99%. It was 33%. Only
 Holmes gave a wry smile.  
 “A trivial modern nuisance. False negatives—spam in the inbox—are tolerable. False positives—an urgent letter lost—are catastrophic. Thus, the wise man demands **Precision**.”
 
-$$Precision\eq \fraq{TP}{TP + FP}$$
+$$Precision \eq \fraq{TP}{TP + FP}$$  
 
 
 ### ⚖️ Scenario 3: Loan Approval  
+
 “A balance of perils. Deny a worthy man credit—bad. Approve a rogue—worse. Both errors cut, though differently. Here the **F1-score**, harmonising recall and precision, is the truest guide.”
 
 $$F1 = 2 * \fraq{precision * recall}{precision + recall}$$
