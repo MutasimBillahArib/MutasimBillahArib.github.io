@@ -1,6 +1,6 @@
 ---
 title: A Case of Deceptive Accuracy
-tags: [Sherlock Holmes, Classification, Confusion Matrix, Accuracy, Precision, Recall, F1 Score]
+tags: [Sherlock Holmes, Classification, Confusion Matrix]
 description: A suspenseful Sherlock Holmes tale where Dr. Trevelyan seeks Holmes’s help after an AI cancer screening tool fails, revealing the deadly consequences hidden behind ‘99% accuracy’ and the crucial truths of the Confusion Matrix.
 ---
 
