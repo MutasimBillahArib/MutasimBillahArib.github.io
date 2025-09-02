@@ -80,7 +80,7 @@ Holmes tossed Mr. Phelps a fresh ledger *Election Records, Chronologically Sorte
 
 "*But my accuracy will plummet!*" Mr. Phelps wailed.
 
-"*Good!*" Holmes snapped. "*Let it crash to, say, 62%. That 62% is __truth__. Your 98% was a lie. Accuracy that ignores time is not science; it is alchemy."
+"*Good!*" Holmes snapped. "*Let it crash to, say, 62%. That 62% is __truth__. Your 98% was a lie. Accuracy that ignores time is not science; it is alchemy.*"
 
 ## The Verdict
 
@@ -114,6 +114,6 @@ __How to avoid this__:
 
 When Mr. Phelps rebuilt his model without leakage, accuracy dropped, but rural votes __stopped vanishing__. Because in data science, __truth often looks like a lower number__.
 
-> "*The greatest deception in prediction is not lying with data it is believing data that has lied to itself.*"  
+> "*The greatest deception in prediction is not lying with data, it is believing data that has lied to itself.*"  
 > — Sherlock Holmes, The Final Problem of Prediction 
 
