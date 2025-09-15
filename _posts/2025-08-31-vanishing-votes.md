@@ -36,13 +36,13 @@ Holmes sprang to his feet, scattering tobacco ash like confetti. "*Then your 98%
 
 ## The Chronological Crime
 
-Holmes seized a dusty ledger from the shelf, *Railway Expansion Reports, 1885–1892*; and hurled it onto the table.
+Holmes seized a dusty ledger from the shelf, *Railway Expansion Reports, 1885-1892*; and hurled it onto the table.
 
 "*Observe, Mr. Phelps!*" he said, tracing a finger down columns of ink. "*In 1888, the village of Little Purlington had __no railway__. Yet your model __knew__ a station would open there in January 1889 and used that future fact to predict high turnout for the 1888 election! It didn't predict turnout it __memorized hindsight__!*"
 
 Mr. Phelps paled. "*But... the data was available when I trained the model!*"
 
-"*Precisely!*" Holmes snatched Mr. Phelps' chart and pointed at the 1888 bar. "*You measured success using __the future to judge the past__. Your 98% accuracy wasn't forecasting—it was __cheating with tomorrow's newspaper__! And rural villages paid the price.*"
+"*Precisely!*" Holmes snatched Mr. Phelps' chart and pointed at the 1888 bar. "*You measured success using __the future to judge the past__. Your 98% accuracy wasn't forecasting-it was __cheating with tomorrow's newspaper__! And rural villages paid the price.*"
 
 He spun to the window, silhouetted against the gaslit fog. "*Rural infrastructure changed __after__ elections. New railways built in 1889 were used to predict 1888 turnout. But yesterday's election? No future railway data existed. So your model defaulted to assuming no railways in remote villages; hence predicting near-zero turnout!*"
 
@@ -57,6 +57,7 @@ Mr. Phelps slumped. "*So my model is fraudulent?*"
 "*Not fraudulent, __leaky__,*" Holmes corrected. "*You committed the cardinal sin of time-series modeling: __temporal data leakage__. You allowed future information to seep into your training data.*"
 
 He seized chalk and sketched a timeline on the wall:  
+
 `1887 Election → [Jan 1888 Railway Data] → 1888 Election → [Jan 1889 Railway Data] → 1889 Election`
 
 "*Your model saw __Jan 1888 data__ when predicting the __1887 election__ as if a soothsayer used tomorrow's horoscope to predict yesterday's weather!"* He spun to face Mr Phelps. "*Tell me, could you have known in __July 1888__ that Little Purlington would get a railway six months later?*"
@@ -86,7 +87,7 @@ Holmes tossed Mr. Phelps a fresh ledger *Election Records, Chronologically Sorte
 
 As Mr. Phelps departed, clutching the corrected ledger, I turned to Holmes. "*A sobering lesson, Holmes. But why did the rural votes vanish specifically?*"
 
-Holmes lit his pipe, the smoke twisted slowly, like the fog over London. "*Because leakage favors the predictable, Watson. Cities change slowly, leakage masked itself. But rural villages? __Dynamic, evolving, vulnerable__. Just as in modern data science, __minority groups suffer first when time leaks__. The poor, the remote, the overlooked—they vanish from flawed models while the privileged coast on hindsight.*"
+Holmes lit his pipe, the smoke twisted slowly, like the fog over London. "*Because leakage favors the predictable, Watson. Cities change slowly, leakage masked itself. But rural villages? __Dynamic, evolving, vulnerable__. Just as in modern data science, __minority groups suffer first when time leaks__. The poor, the remote, the overlooked-they vanish from flawed models while the privileged coast on hindsight.*"
 
 He tapped the timeline on the wall. "*Remember this, Watson, When time flows in one direction, your data must flow with it. Never let the future whisper secrets to the past.*"
 
@@ -115,5 +116,5 @@ __How to avoid this__:
 When Mr. Phelps rebuilt his model without leakage, accuracy dropped, but rural votes __stopped vanishing__. Because in data science, __truth often looks like a lower number__.
 
 > "*The greatest deception in prediction is not lying with data, it is believing data that has lied to itself.*"  
-> — Sherlock Holmes, The Final Problem of Prediction 
+> - Sherlock Holmes, The Final Problem of Prediction 
 
