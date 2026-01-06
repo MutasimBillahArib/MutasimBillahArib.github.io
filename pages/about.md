@@ -5,9 +5,9 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+<!-- # **About Me** -->
 
-**Hey, I'm Arib!** :wave:<br>
+# **Hey, I'm Arib!** :wave:<br>
 
 Passionate about machine learning, data science, and cutting-edge technology, I thrive on unraveling complex systems and transforming data into actionable insights. My approach centers on building interpretable, production-ready models-prioritizing clean, maintainable code, reproducibility, and measurable impact. If a model can't be explained, deployed, or leveraged in the real world, it’s not truly complete.
 
