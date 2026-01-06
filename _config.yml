@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Mutasim Billah Arib
-# description         : >-
-#                        :book: :computer: :outbox_tray: :repeat:
+description         : >-
+                       :book: :computer: :repeat:
 # description         : >-
 #                       I see patterns where others see chaos.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
