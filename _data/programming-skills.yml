@@ -3,9 +3,9 @@
   color: danger
 
 - name: Python
-  percentage: 88
+  percentage: 85
   color:
 
-- name: SQL
-  percentage: 85
+- name: Data Visualization
+  percentage: 87
   color: success
