@@ -1,7 +1,1 @@
-- name: Data Analytics
-  percentage: 94
-  color: info
 
-- name: SQL
-  percentage: 90
-  color: success
