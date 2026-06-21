@@ -1,10 +1,7 @@
-- name: Grit
+- name: Data Analytics
   percentage: 94
   color: info
 
-- name: Self Learning
-  percentage: 93
+- name: SQL
+  percentage: 90
   color: success
-
-- name: Communication
-  percentage: 89
