@@ -17,7 +17,7 @@ Thanks for visiting-explore my blog, projects, and insights. Let’s connect and
 
 <div class="row">
 {% include about/skills.html title="Technical Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="" source=site.data.other-skills %}
+<!-- {% include about/skills.html title="" source=site.data.other-skills %} -->
 </div>
 
 <div class="row">
