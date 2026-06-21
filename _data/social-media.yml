@@ -95,3 +95,8 @@ keybase:
   url   : https://www.keybase.io/
   icon  : fab fa-keybase
   color : 66ccff
+
+rpubs:
+  url   : https://www.rpubs.com/
+  icon  : fab fa-r-project
+  color : 66ccff
